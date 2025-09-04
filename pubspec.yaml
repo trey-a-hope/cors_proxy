@@ -1,7 +1,7 @@
 name: cors_proxy
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/yourusername/cors_proxy
 
 environment:
   sdk: ^3.9.0
