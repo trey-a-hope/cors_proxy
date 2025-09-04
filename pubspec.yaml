@@ -1,5 +1,5 @@
 name: cors_proxy
-description: "A new Flutter package project."
+description: "Provides a proxied endpoint for your target url"
 version: 0.0.1
 homepage: https://github.com/yourusername/cors_proxy
 
